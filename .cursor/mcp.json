@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "uuid": {
+      "name": "uuid",
+      "version": "1.0.0",
+      "command": "go",
+      "args": ["run", "-C", "/Users/wasu/go/src/github.com/wasuwa/uuid-mcp/", "./"],
+      "cwd": "."
+    }
+  }
+}
